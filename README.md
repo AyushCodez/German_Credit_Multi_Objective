@@ -83,4 +83,8 @@ Generated plots and results from the analysis can be found in the `plots/` direc
 ![Pareto Front](plots/Pareto%20Front%20%20DPD%20vs%20Accuracy.png)
 ![Pareto front](plots/Pareto%20Solutions%20DPD%20VS%20Accuracy.png)
 
+## Report
+For further details regarding the motivation and implementation, please refer to [Report](Report.pdf)
+
+
 
