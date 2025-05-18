@@ -77,7 +77,7 @@ Ensure you have the following installed:
 
 3. **Hyperparameter Optimization:**
 
-   Execute `optuna-solver_seeded.ipynb` to perform hyperparameter tuning using Optuna. This notebook aims to optimize model performance while considering fairness metrics.
+   Execute `optuna-solver_seeded.ipynb` to perform hyperparameter tuning using Optuna. This notebook aims to optimize model performance while considering fairness metrics. This may take 5-10 minutes to run.
 
 ## Results
 
