@@ -81,5 +81,6 @@ Ensure you have the following installed:
 Generated plots and results from the analysis can be found in the `plots/` directory. These visualizations help in understanding the trade-offs between different objectives and the performance of various models.
 
 ![Pareto Front](plots/Pareto%20Front%20%20DPD%20vs%20Accuracy.png)
+![Pareto front](plots/Pareto%20Solutions%20DPD%20VS%20Accuracy.png)
 
 
