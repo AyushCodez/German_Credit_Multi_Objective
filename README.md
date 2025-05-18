@@ -16,6 +16,9 @@ German_Credit_Multi_Objective/
 ├── baseline.ipynb
 ├── optuna-solver.ipynb
 ├── pre-process.ipynb
+├── README.md
+├── Report.pdf
+├── requirements.txt
 ```
 
 
